@@ -1,0 +1,20 @@
+header{
+  background:#B3B3B3;
+}
+h1{
+  color:#ffffff;
+  text-align: center;
+  font size:200%;
+}
+nav{
+background:#C0C0C0;
+}
+h2{
+  background:#FF69B4;
+}
+section{
+background:#F5DEB3;
+}
+aside{
+  display:none;
+}
